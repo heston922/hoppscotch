@@ -1,0 +1,2 @@
+FROM hoppscotch/hoppscotch:latest
+
